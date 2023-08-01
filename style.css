@@ -1,0 +1,88 @@
+.card-container {
+  background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+  background-size: cover;
+  height: 100vh;
+  font-family: Roboto;
+  padding: 30px;
+}
+
+.yoga-girl-two {
+  width: 300px;
+  margin: 130px;
+  margin-left: 800px;
+  margin-top: 50px;
+  margin-bottom: 0;
+  line-height: 0;
+  text-align: center;
+
+}
+
+.card-container-two {
+  background-color: #ffedcb;
+  background-size: ;
+  height: 200vh;
+  padding: 20px;
+}
+
+.tittle {
+  color: #132d84;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 90px;
+}
+
+.yoga-girl {
+  width: 300px;
+  margin: 130px;
+  margin-top: 190px;
+  margin-bottom: 0;
+  margin-left: 130px;
+  line-height: 0;
+}
+
+.home-para {
+  color: #323f4b;
+  text-align: center;
+  margin-left: 10px;
+  font-size: 25px;
+}
+
+.btn.btn-primary {
+  text-align: center;
+  background-color: #132d84;
+  border: none;
+}
+
+.tittle-page-two {
+  color: #132d84;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  margin: 25px;
+  margin-left: 50px;
+}
+
+.sub-card-container {
+  background-color: #ffe2ab;
+  padding: 0px;
+  border-radius: 50px;
+  margin: 20px;
+  width: 600px;
+  margin-left: 620px;
+}
+
+.acro-yoga {
+  font-weight: bold;
+  color: #132d84;
+  margin-top: 50px;
+  margin-left: px;
+}
+
+.content {
+  color: #253263;
+}
+
+.yoga-pose-image {
+  width: 200px;
+  margin-right: 40px;
+}
